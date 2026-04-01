@@ -17,6 +17,8 @@ connectDB();
 
 // Hi2
 
+// code pushed with zaindev branch
+
 app.use(cors());
 app.use(express.json());
 
