@@ -15,6 +15,8 @@ connectDB();
 
 // Hi
 
+// Hi2
+
 app.use(cors());
 app.use(express.json());
 
